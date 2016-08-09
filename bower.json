@@ -1,0 +1,17 @@
+{
+  "name": "academy_mudu",
+  "description": "just a test",
+  "main": "index.js",
+  "authors": [
+    "osman jalloh"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TheBlackDude/academy_mudu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
